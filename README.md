@@ -10,7 +10,7 @@
 - **Tools & Deployment:** Git, AWS EC2, Streamlit, Flask  
 
 ## 📂 Featured Projects
-- [Job Description Matcher (LLM)](https://github.com/hetvi123/job-description-matcher)  
+- [Job Description Matcher](https://github.com/hetvi123/job-description-matcher)  
 AI-powered tool that matches resumes to job descriptions using embedding similarity and large language model reasoning. Integrated RAG pipeline for skill highlighting, scoring, and chatbot Q&A. Deployed via Streamlit.
 
 - [Credit Card Fraud Detection](https://github.com/hetvi123/credit-card-fraud)  
