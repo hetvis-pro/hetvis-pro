@@ -22,4 +22,4 @@ Built a multi-class NLP model to classify resumes by job categories. Created an 
 ## 📫 Let's Connect
 - [LinkedIn](https://linkedin.com/in/hetvi123)  
 - Email: hetvis.pro@example.com  
-<-- Portfolio: https://yourportfolio.com -->
+<!-- Portfolio: https://yourportfolio.com -->
