@@ -7,7 +7,8 @@
 
 I’m curious by nature, always learning, and enjoy working on projects that challenge me to think in new ways.
 
-Open to **Co-op/Intern opportunities** in Data Science or Analytics starting Jan 2026
+- 🤝 Open to **Co-op/Intern opportunities** in Data Science or Analytics starting Jan 2026
+
 ---
 
 ### 📌 About Me
