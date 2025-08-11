@@ -65,9 +65,9 @@ Predicts real estate prices in Bengaluru using Linear Regression.
 ![Hetvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hetvis-pro&show_icons=true&theme=default)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hetvis-pro&layout=compact&theme=default)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hetvis-pro&theme=default)
--->
----
 
+---
+-->
 ### 🌐 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hetvi-sodha-pro/)  
 📧 Email: hetvis.pro@gmail.com
