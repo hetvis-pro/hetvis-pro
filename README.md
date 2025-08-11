@@ -70,8 +70,7 @@ Predicts real estate prices in Bengaluru using Linear Regression.
 -->
 ### 🌐 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hetvi-sodha-pro/)  
-📧 Email: hetvis.pro@gmail.com
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hetvis.pro@gmail.com)
+[![📧 Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hetvis.pro@gmail.com)
 
 ---
 ### 🛠 Skills & Tools
