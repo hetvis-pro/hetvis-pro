@@ -45,8 +45,8 @@ I’m curious by nature, always learning, and enjoy working on projects that cha
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF8000?style=for-the-badge&logo=xgboost&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-2C2C2C?style=for-the-badge&logo=chainlink&logoColor=white)
 ![SentenceTransformers](https://img.shields.io/badge/SBERT-FFDD00?style=for-the-badge&logo=python&logoColor=black)
-![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=flat-square)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 **Data Analysis & Visualization:**  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -66,7 +66,7 @@ I’m curious by nature, always learning, and enjoy working on projects that cha
 **Backend & APIs:**  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 **Databases:**  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
