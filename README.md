@@ -32,39 +32,39 @@ I’m curious by nature, always learning, and enjoy working on projects that cha
 
 ### 🚀 Projects I’ve Worked On
 
-#### **[Job Description Matcher (LLM + NLP + GenAI)](https://github.com/hetvis-pro/Job-Description-Matcher)**
+#### **[Job Description Matcher (LLM + NLP + GenAI)](https://github.com/hetvis-pro/JobDescriptionMatcher)**
 An AI-powered web app that:
 - Compares resumes and job descriptions with embeddings
 - Generates GenAI reasoning-based match scores
 - Highlights matching skills & offers a RAG chatbot  
 *Tech:* Mistral-7B, FAISS, LangChain, Streamlit
 
-#### **[Credit Card Fraud Detection App](https://github.com/hetvis-pro/Credit-Card-Fraud-Detection)**
+#### **[Credit Card Fraud Detection App](https://github.com/hetvis-pro/CreditCardFraudDetectionApp)**
 Real-time fraud detection using a trained Random Forest model, with SMOTE for imbalance handling and a React.js frontend.  
 *Tech:* Random Forest, Flask, React.js, SMOTE
 
-#### **[Resume Classifier App](https://github.com/hetvis-pro/Resume-Classifier)**
+#### **[Resume Classifier App](https://github.com/hetvis-pro/ResumeClassifierApp)**
 Classifies PDF resumes into job categories using TF-IDF + XGBoost, deployed on Streamlit.  
 *Tech:* XGBoost, NLTK, TF-IDF, Streamlit
 
-#### **[Fairy Tale PDF Chatbot](https://github.com/hetvis-pro/Fairy-Tale-Chatbot)**
+#### **[Fairy Tale PDF Chatbot](https://github.com/hetvis-pro/FairyTaleChatbot)**
 A chatbot to query fairy tale PDFs using LangChain + Mistral.  
 *Tech:* LangChain, Mistral, Chroma, Gradio
 
-#### **[SportsPerson Classifier](https://github.com/hetvis-pro/SportsPerson-Classifier)**
+#### **[SportsPerson Classifier](https://github.com/hetvis-pro/SportsPersonClassifierApp)**
 Classifies images of sports personalities with Haar Cascade + SVM, deployed on AWS EC2.  
 *Tech:* OpenCV, SVM, Flask, AWS EC2
 
-#### **[Bengaluru House Price Prediction](https://github.com/hetvis-pro/Bengaluru-House-Price-Prediction)**
+#### **[Bengaluru House Price Prediction](https://github.com/hetvis-pro/BengaluruHousePriceApp)**
 Predicts real estate prices in Bengaluru using Linear Regression.  
 *Tech:* Scikit-learn, Flask, AWS EC2
 
 ---
 
 ### 📊 GitHub Stats
-![Hetvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HetviSodha&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HetviSodha&layout=compact&theme=default)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HetviSodha&theme=default)
+![Hetvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hetvis-pro&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hetvis-pro&layout=compact&theme=default)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hetvis-pro&theme=default)
 
 ---
 
