@@ -2,8 +2,8 @@
 
 **`AI/ML Learner | Data Enthusiast | Former Frontend Developer`**
 
-- I’m currently a postgraduate student in Artificial Intelligence & Machine Learning at Lambton College, exploring ways to use data and AI to solve real-world problems.  
-- Before diving into AI/ML, I spent over 2 years as a frontend/software developer, which taught me how to build clean, user-friendly applications — skills I now combine with my growing expertise in data science and machine learning.  
+I’m currently a postgraduate student in Artificial Intelligence & Machine Learning at Lambton College, exploring ways to use data and AI to solve real-world problems.  
+Before diving into AI/ML, I spent over 2 years as a frontend/software developer, which taught me how to build clean, user-friendly applications — skills I now combine with my growing expertise in data science and machine learning.  
 
 I’m curious by nature, always learning, and enjoy working on projects that challenge me to think in new ways.
 
