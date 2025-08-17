@@ -40,8 +40,6 @@ I’m curious by nature, always learning, and enjoy working on projects that cha
 
 **Machine Learning & AI:**  
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-<!-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) -->
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF8000?style=flat&logo=xgboost&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-2C2C2C?style=flat&logo=chainlink&logoColor=white)
 ![SentenceTransformers](https://img.shields.io/badge/SBERT-FFDD00?style=flat&logo=python&logoColor=black)
